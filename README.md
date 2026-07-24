@@ -74,7 +74,7 @@ git merge feature-x        # Bring the changes in
 
 ### People who have completed the exercise
 
-<!-- Add your name here -->
+Cobyn Mulder
 
 ## Handy resources
 
