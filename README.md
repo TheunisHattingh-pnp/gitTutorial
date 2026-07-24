@@ -75,6 +75,7 @@ git merge feature-x        # Bring the changes in
 ### People who have completed the exercise
 
 Theunis Hattingh
+Cobyn Mulder
 
 ## Handy resources
 
