@@ -74,8 +74,7 @@ git merge feature-x        # Bring the changes in
 
 ### People who have completed the exercise
 
-<!-- Add your name here -->
-
+Xavier Nunes
 ## Handy resources
 
 - [Official Git docs](https://git-scm.com/doc)
