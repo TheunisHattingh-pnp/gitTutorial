@@ -74,7 +74,10 @@ git merge feature-x        # Bring the changes in
 
 ### People who have completed the exercise
 
+Theunis Hattingh
+Cobyn Mulder
 Xavier Nunes
+
 ## Handy resources
 
 - [Official Git docs](https://git-scm.com/doc)
