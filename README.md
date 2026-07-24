@@ -76,6 +76,7 @@ git merge feature-x        # Bring the changes in
 
 Theunis Hattingh
 Cobyn Mulder
+Xavier Nunes
 
 ## Handy resources
 
