@@ -78,6 +78,7 @@ Theunis Hattingh
 Cobyn Mulder
 Xavier Nunes
 Yazeed Adams
+Meekaaeel Allie
 
 ## Handy resources
 
